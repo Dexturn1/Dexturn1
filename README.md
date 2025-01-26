@@ -1,5 +1,5 @@
 
-# Hey, I’m Prabhat! 👋i
+# Hey, I’m Prabhat! 👋
 
 
 Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently leveling up in my MCA while diving into coding, building projects, and making the occasional meme or two.
@@ -11,7 +11,7 @@ Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently levelin
 - 💻 Focused on software development, web development, and system programming
 - 🎮 Avid gamer with a passion for PC games
 - 🏋️‍♂️ Gym enthusiast, working on improving my physical health
-- 🎧 Enjoys listening to desi hip hop artists like Krsna, Krama, Fais Safi, and Raftaar
+- 🎧 Enjoys listening to desi hip hop artists like Krsna, Krama, fariz shaifi and Raftaar
 - 📚 Always learning new concepts, books, and tools to enhance my knowledge and skills
 
 ## What’s My Vibe? 🚀
