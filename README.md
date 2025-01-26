@@ -1,7 +1,8 @@
 
-# Prabhat Kapkoti
+# Hey, I’m Prabhat! 👋i
 
-Welcome to my GitHub! I am a passionate developer with experience in various technologies and currently working on expanding my skills. Below you'll find information about my background, projects, and areas of interest.
+
+Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently leveling up in my MCA while diving into coding, building projects, and making the occasional meme or two.
 
 ## 👨‍💻 About Me
 
@@ -12,6 +13,12 @@ Welcome to my GitHub! I am a passionate developer with experience in various tec
 - 🏋️‍♂️ Gym enthusiast, working on improving my physical health
 - 🎧 Enjoys listening to desi hip hop artists like Krsna, Krama, Fais Safi, and Raftaar
 - 📚 Always learning new concepts, books, and tools to enhance my knowledge and skills
+
+## What’s My Vibe? 🚀
+- I’m all about small wins every day—progress is progress, no matter how tiny.
+- Turning ideas into projects and figuring out the hard stuff along the way (and yes, I fail sometimes, but that’s what makes it fun).
+- Dreaming big—tech, media, and everything in between. One day at a time.
+
 
 ## 🚀 Technologies & Tools
 
