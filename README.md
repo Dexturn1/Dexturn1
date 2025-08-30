@@ -6,7 +6,7 @@ Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently levelin
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing an MCA (Master of Computer Applications)
+- 🎓 Currently pursuing an MCA
 - 🎓 BCA graduate
 - 💻 Focused on software development, web development, and system programming
 - 🎮 Avid gamer with a passion for PC games
@@ -22,12 +22,12 @@ Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently levelin
 
 ## 🚀 Technologies & Tools
 
-- **Programming Languages**: JavaScript, C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript, MERN Stack (MongoDB, Express, React, Node.js)
+- **Programming Languages**: Java, C, C++, Python
+- **Web Development**: HTML, CSS, JavaScript, 
 - **Database Management**: MySQL
 - **Tools**: PyCharm, Visual Studio, Visual Studio Code, Obsidian
-- **Operating System**: Pop!_OS
-- **Other**: Git, GitHub, JavaScript Frameworks, and more...
+- **Operating System**: Mac_os
+- **Other**: Git, GitHub and more...
 
 ## 📈 GitHub Stats
 
@@ -43,7 +43,6 @@ Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently levelin
 ## 🏆 Achievements
 
 - Worked on various projects involving web development, data structures, and algorithms.
-- Contributed to several open-source projects.
 - Always striving to improve by learning something new every day!
 
 Feel free to check out my repositories, contribute to my projects, or explore my work!
