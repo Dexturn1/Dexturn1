@@ -1,11 +1,10 @@
+👋 Hi, I'm Prabhat Kapkoti  
 
+💻 MCA Student | Java | Spring Boot | React | DSA | LeetCode 💪  
 
-# 👋 Hi, I'm Prabhat Kapkoti  
-### 💻 MCA Student | Java | Spring Boot | React | DSA | LeetCode 💪  
+[![LeetCode Organizer](https://github.com/Dexturn1/leetcode-solutions/actions/workflows/leetcode-fresh.yml/badge.svg)](https://github.com/Dexturn1/leetcode-solutions/actions)
 
----
-
-### 🧩 My LeetCode Progress
+🧩 My LeetCode Progress  
 
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-0-blue)
 ![Easy](https://img.shields.io/badge/Easy-0-green)
@@ -13,11 +12,10 @@
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 ![Last Updated](https://img.shields.io/badge/Updated--grey)
 
-📘 **[View All Solutions →](https://github.com/prabhatkapkoti/leetcode-solutions)**
+📘 [View All Solutions →](https://github.com/Dexturn1/leetcode-solutions)
 
----
+🛠️ Tech Stack  
 
-### 🛠️ Tech Stack
-- Java, Spring Boot, MySQL  
-- React.js, Tailwind CSS, Axios  
-- Git, Docker, Linux  
+Java, Spring Boot, MySQL  
+React.js, Tailwind CSS, Axios  
+Git, Docker, Linux
