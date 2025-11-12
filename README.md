@@ -1,4 +1,4 @@
-[![LeetCode Organizer](https://github.com/Dexturn1/leetcode-solutions/actions/workflows/leetcode-fresh.yml/badge.svg)](https://github.com/Dexturn1/leetcode-solutions/actions)
+
 
 # 👋 Hi, I'm Prabhat Kapkoti  
 ### 💻 MCA Student | Java | Spring Boot | React | DSA | LeetCode 💪  
