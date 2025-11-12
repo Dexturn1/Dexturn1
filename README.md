@@ -1,48 +1,21 @@
+# 👋 Hi, I'm Prabhat Kapkoti  
+### 💻 MCA Student | Java | Spring Boot | React | DSA | LeetCode 💪  
 
-# Hey, I’m Prabhat! 👋
+---
 
+### 🧩 My LeetCode Progress
 
-Techie by day, gamer by night, and coffee enthusiast 24/7. ☕ Currently leveling up in my MCA while diving into coding, building projects, and making the occasional meme or two.
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-0-blue)
+![Easy](https://img.shields.io/badge/Easy-0-green)
+![Medium](https://img.shields.io/badge/Medium-0-orange)
+![Hard](https://img.shields.io/badge/Hard-0-red)
+![Last Updated](https://img.shields.io/badge/Updated--grey)
 
-## 👨‍💻 About Me
+📘 **[View All Solutions →](https://github.com/prabhatkapkoti/leetcode-solutions)**
 
-- 🎓 Currently pursuing an MCA
-- 🎓 BCA graduate
-- 💻 Focused on software development, web development, and system programming
-- 🎮 Avid gamer with a passion for PC games
-- 🏋️‍♂️ Gym enthusiast, working on improving my physical health
-- 🎧 Enjoys listening to desi hip hop artists like Krsna, Krama, fariz shaifi and Raftaar
-- 📚 Always learning new concepts, books, and tools to enhance my knowledge and skills
+---
 
-## What’s My Vibe? 🚀
-- I’m all about small wins every day—progress is progress, no matter how tiny.
-- Turning ideas into projects and figuring out the hard stuff along the way (and yes, I fail sometimes, but that’s what makes it fun).
-- Dreaming big—tech, media, and everything in between. One day at a time.
-
-
-## 🚀 Technologies & Tools
-
-- **Programming Languages**: Java, C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript, 
-- **Database Management**: MySQL
-- **Tools**: PyCharm, Visual Studio, Visual Studio Code, Obsidian
-- **Operating System**: Mac_os
-- **Other**: Git, GitHub and more...
-
-## 📈 GitHub Stats
-
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=radical)
-
-## 📚 Currently Reading
-
-- *Beyond Good and Evil* by Friedrich Nietzsche
-- *The Art of Seduction* by Robert Greene
-- *Atomic Habits* by James Clear
-- *Can't Hurt Me* by David Goggins
-
-## 🏆 Achievements
-
-- Worked on various projects involving web development, data structures, and algorithms.
-- Always striving to improve by learning something new every day!
-
-Feel free to check out my repositories, contribute to my projects, or explore my work!
+### 🛠️ Tech Stack
+- Java, Spring Boot, MySQL  
+- React.js, Tailwind CSS, Axios  
+- Git, Docker, Linux  
