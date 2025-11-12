@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Prabhat Kapkoti
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dexturn1\&label=Profile+Views\&color=blueviolet\&style=flat)
+# 👋 Hi, I'm **Prabhat Kapkoti** (a.k.a. Dexturn1)
 
 💻 **MCA Student @ Graphic Era Hill University**
-🚀 Passionate about **Java, Spring Boot, React, and DSA**
-🌱 Currently solving problems on **LeetCode** and building full-stack apps
+🚀 Passionate about **Java**, **Spring Boot**, **React**, and **DSA**
+🌙 I love clean code, dark mode, and late-night debugging sessions.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Dexturn1\&label=Profile+Views\&color=blueviolet\&style=flat)](https://github.com/Dexturn1)
 
 ---
 
@@ -12,22 +12,27 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
 
 ### 🧩 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dexturn?theme=dark\&font=Roboto\&ext=heatmap)](https://leetcode.com/u/dexturn)
-📘 **[View All My LeetCode Solutions →](https://github.com/Dexturn1/leetcode-solutions)**
+<a href="https://leetcode.com/u/dexturn">
+  <img src="https://leetcard.jacoblin.cool/dexturn?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 
-> ⚠️ Note: I’ve solved **50+ LeetCode problems before** creating this repository — so only recent ones are shown here!
+📘 [View All My LeetCode Solutions →](https://github.com/Dexturn1/leetcode-solutions)
 
 </td>
-<td width="50%" align="center">
+<td>
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=tokyonight&hide_border=true" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexturn1&layout=compact&theme=tokyonight&hide_border=true" />  
+<a href="https://github.com/Dexturn1">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=tokyonight" height="165"/>
+</a>
+<a href="https://github.com/Dexturn1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexturn1&layout=compact&theme=tokyonight" height="165"/>
+</a>
 
 </td>
 </tr>
@@ -35,9 +40,21 @@
 
 ---
 
-## 🔥 GitHub Activity Graph
+## 🔥 Activity & Streaks
 
-[![Prabhat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexturn1\&theme=tokyo-night\&hide_border=true)](https://github.com/Dexturn1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1\&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dexturn1\&theme=tokyo-night)
+
+---
+
+## 🧮 LeetCode Visual Dashboard (Auto-Updated)
+
+![Difficulty Distribution](https://github.com/Dexturn1/leetcode-solutions/blob/main/LeetCode/stats.png)
+![Language Usage](https://github.com/Dexturn1/leetcode-solutions/blob/main/LeetCode/langs.png)
+![Progress Over Time](https://github.com/Dexturn1/leetcode-solutions/blob/main/LeetCode/progress.png)
+
+🕓 Updated daily via [LeetCode Organizer Workflow](https://github.com/Dexturn1/leetcode-solutions)
 
 ---
 
@@ -45,7 +62,7 @@
 
 **Backend:** Java • Spring Boot • MySQL
 **Frontend:** React.js • Tailwind CSS • Axios
-**Tools & DevOps:** Git • Docker • Vim
+**DevOps & Tools:** Git • Docker • VS Code • Vim
 
 ---
 
@@ -53,8 +70,16 @@
 
 💼 [LinkedIn – Prabhat Kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)
 📘 [LeetCode – Dexturn1](https://leetcode.com/u/dexturn)
-📧 **Email:** [kapkotiprabhat@gmail.com](mailto:kapkotiprabhat@gmail.com)
+📧 **[kapkotiprabhat@gmail.com](mailto:kapkotiprabhat@gmail.com)**
 
 ---
 
-⭐ *“Code. Commit. Repeat.”*
+## 💬 Fun Quote
+
+> “Talk is cheap. Show me the code.” — Linus Torvalds
+
+⭐ *Code. Commit. Repeat.*
+
+---
+
+Made with 💻 + ☕ by [**Dexturn1**](https://github.com/Dexturn1)
