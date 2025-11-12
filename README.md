@@ -36,7 +36,7 @@
 ---
 
 ## 🌐 Connect With Me
-📫 **Email:** prabhatkapkoti@example.com *(optional — replace or remove)*  
+📫 **Email:** kapkotiprabhat@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/prabhatkapkoti/)  
 🧠 [LeetCode](https://leetcode.com/Dexturn1/)
 
