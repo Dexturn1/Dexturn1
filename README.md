@@ -24,7 +24,7 @@
 
 **Backend:** Java • Spring Boot • MySQL  
 **Frontend:** React.js • Tailwind CSS • Axios  
-**Tools & DevOps:** Git • Docker • Linux  
+**Tools & DevOps:** Git • Docker • Vim
 
 ---
 
@@ -39,7 +39,7 @@
 
 💼 [LinkedIn – Prabhat Kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)  
 📘 [LeetCode – Dexturn1](https://leetcode.com/Dexturn1/)  
-📧 **Email:** *(add your email here if you’d like)*  
+📧 **Email:** *kapkotiprabhat@gmail.com*  
 
 ---
 
