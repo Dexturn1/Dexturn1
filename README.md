@@ -36,10 +36,11 @@
 ---
 
 ## 🌐 Connect With Me
-📫 **Email:** kapkotiprabhat@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/prabhatkapkoti/)  
-🧠 [LeetCode](https://leetcode.com/Dexturn1/)
+
+💼 [LinkedIn – Prabhat Kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)  
+📘 [LeetCode – Dexturn1](https://leetcode.com/Dexturn1/)  
+📧 **Email:** *(add your email here if you’d like)*  
 
 ---
 
-⭐ *“Code. Commit. Repeat.”*  
+⭐ *“Code. Commit. Repeat.”*
