@@ -38,7 +38,7 @@
 ## 🌐 Connect With Me
 
 💼 [LinkedIn – Prabhat Kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)  
-📘 [LeetCode – Dexturn1](https://leetcode.com/Dexturn1/)  
+📘 [LeetCode – Dexturn1](https://leetcode.com/u/dexturn)  
 📧 **Email:** *kapkotiprabhat@gmail.com*  
 
 ---
