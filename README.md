@@ -11,7 +11,7 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 * MCA Student at **Graphic Era Hill University**
 * Backend developer focused on **Java & Spring Boot**
 * Experience integrating **React.js** with backend services
-* Regular **DSA practice** on LeetCode
+* Regular DSA practice on **LeetCode**
 * Learning **Docker, CI/CD pipelines, and cloud fundamentals**
 * Strong preference for clean architecture and readable code
 
@@ -85,7 +85,7 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 ## GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/Dexturn1/Dexturn1/blob/main/metrics.plugin.calendar.svg" alt="GitHub Contribution Calendar" />
+  <img src="https://github.com/Dexturn1/Dexturn1/blob/main/metrics.plugin.calendar.svg" alt="GitHub Contribution Heatmap" />
 </p>
 
 ---
