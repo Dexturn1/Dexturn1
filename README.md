@@ -6,14 +6,10 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 
 ---
 
-## About Me
+## About
 
-* MCA Student at **Graphic Era Hill University**
-* Backend developer focused on **Java & Spring Boot**
-* Experience integrating **React.js** with backend services
-* Regular DSA practice on **LeetCode**
-* Learning **Docker, CI/CD pipelines, and cloud fundamentals**
-* Strong preference for clean architecture and readable code
+I am an MCA student at **Graphic Era Hill University**, focused on backend development using Java and Spring Boot.
+I enjoy building clean APIs, learning system design fundamentals, and improving problem-solving skills through DSA practice.
 
 ---
 
@@ -32,8 +28,8 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
 </p>
 
 ### Frontend
@@ -41,8 +37,6 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
 ### Database
@@ -60,16 +54,9 @@ Backend-focused developer building scalable, maintainable, and production-ready 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
-### IDEs
-
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
-
 ---
 
-## GitHub Overview
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -82,7 +69,7 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 
 ---
 
-## GitHub Contributions
+## GitHub Contribution Heatmap
 
 <p align="center">
   <img src="https://github.com/Dexturn1/Dexturn1/blob/main/metrics.plugin.calendar.svg" alt="GitHub Contribution Heatmap" />
@@ -90,7 +77,7 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 
 ---
 
-## Competitive Programming
+## LeetCode Activity
 
 <p align="center">
   <a href="https://leetcode.com/u/dexturn/">
@@ -102,11 +89,11 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 
 ## Current Focus
 
-* Strengthening Spring Boot backend architecture
-* Building structured full-stack applications
-* Improving DSA consistency
-* Working with Docker and CI/CD workflows
-* Preparing a production-ready developer portfolio
+* Spring Boot backend architecture
+* REST API design and security
+* Data Structures & Algorithms
+* Docker and CI/CD workflows
+* Building production-ready projects
 
 ---
 
