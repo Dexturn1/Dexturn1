@@ -1,10 +1,6 @@
 <h1 align="center">Prabhat Kapkoti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=A1A1AA&center=true&vCenter=true&width=600&lines=MCA+Student;Java+Backend+Developer;Full+Stack+Developer" alt="Typing Animation" />
-</p>
-
-<p align="center">
 Backend-focused developer building scalable, maintainable, and production-ready systems.
 </p>
 
@@ -26,49 +22,49 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-3A3A3A?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-3A3A3A?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-3A3A3A?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-3A3A3A?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20Hibernate-3A3A3A?style=flat&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-3A3A3A?style=flat" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-3A3A3A?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-3A3A3A?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-3A3A3A?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-3A3A3A?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-3A3A3A?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-3A3A3A?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-3A3A3A?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-3A3A3A?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-3A3A3A?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ### IDEs
 
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-3A3A3A?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-3A3A3A?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -82,6 +78,14 @@ Backend-focused developer building scalable, maintainable, and production-ready 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1&theme=github-dark&hide_border=true" width="60%" />
+</p>
+
+---
+
+## GitHub Contributions
+
+<p align="center">
+  <img src="https://github.com/Dexturn1/Dexturn1/blob/main/metrics.plugin.calendar.svg" alt="GitHub Contribution Calendar" />
 </p>
 
 ---
