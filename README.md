@@ -52,11 +52,10 @@ I enjoy building scalable backend systems, designing clean REST APIs, and improv
 
 ---
 
-## 📫 Connect With Me
+📫 **Connect With Me**
 
-* 🔗 LinkedIn: [prabhat-kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)
-* 📧 Email: *(optional – add if you want)*
-
----
+🔗 **LinkedIn:** [prabhat-kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)
+📧 **Email:** [kapkotiprabhat@gmail.com](mailto:kapkotiprabhat@gmail.com)
 
 ⭐ *Always learning. Always building.*
+
