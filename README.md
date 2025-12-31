@@ -1,109 +1,70 @@
 <h1 align="center">Prabhat Kapkoti</h1>
 
 <p align="center">
-Backend-focused developer building scalable, maintainable, and production-ready systems.
+Backend Developer | Java • Spring Boot • REST APIs
 </p>
 
 ---
 
-## About
+## About Me
 
-I am an MCA student at **Graphic Era Hill University**, focused on backend development using Java and Spring Boot.
-I enjoy building clean APIs, learning system design fundamentals, and improving problem-solving skills through DSA practice.
-
----
-
-## Technology Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
+I am a **Backend-focused developer** with a strong foundation in **Java and Spring Boot**, currently pursuing **MCA** at *Graphic Era Hill University*.
+I enjoy building scalable backend systems, designing clean APIs, and strengthening problem-solving skills through DSA.
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexturn1&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1&theme=github-dark&hide_border=true" width="60%" />
-</p>
+* Java
+* JavaScript
+* Python
 
----
+**Backend**
 
-## GitHub Contribution Heatmap
+* Spring Boot
+* Spring Security
+* JPA / Hibernate
+* REST APIs
 
-<p align="center">
-  <img src="https://github.com/Dexturn1/Dexturn1/blob/main/metrics.plugin.calendar.svg" alt="GitHub Contribution Heatmap" />
-</p>
+**Frontend**
 
----
+* React
+* Tailwind CSS
 
-## LeetCode Activity
+**Database**
 
-<p align="center">
-  <a href="https://leetcode.com/u/dexturn/">
-    <img src="https://leetcard.jacoblin.cool/dexturn?theme=dark&font=Inter&ext=heatmap" />
-  </a>
-</p>
+* MySQL
+
+**Tools & DevOps**
+
+* Git & GitHub
+* Docker
 
 ---
 
 ## Current Focus
 
-* Spring Boot backend architecture
-* REST API design and security
-* Data Structures & Algorithms
-* Docker and CI/CD workflows
-* Building production-ready projects
+* Building production-ready backend systems
+* Learning system design fundamentals
+* Strengthening DSA and problem-solving
+* Working on Spring Boot–based real-world projects
 
 ---
 
-## Contact
+## Projects
 
-* Email: **[kapkotiprabhat@gmail.com](mailto:kapkotiprabhat@gmail.com)**
-* LinkedIn: [https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)
-* LeetCode: [https://leetcode.com/u/dexturn/](https://leetcode.com/u/dexturn/)
-* GitHub: [https://github.com/Dexturn1](https://github.com/Dexturn1)
+* **Todo Management System** – RESTful backend using Spring Boot & JPA
+* **Background Remover SaaS (In Progress)** – Full-stack app using React, Spring Boot, and external APIs
 
 ---
 
-<p align="center"><i>“Talk is cheap. Show me the code.” — Linus Torvalds</i></p>
+## Connect With Me
+
+* **GitHub:** [https://github.com/Dexturn1](https://github.com/Dexturn1)
+* **LinkedIn:** [https://www.linkedin.com/in/prabhat-kapkoti/](https://www.linkedin.com/in/prabhat-kapkoti/)
+
+---
+
+⭐ *Always learning. Always building.*
