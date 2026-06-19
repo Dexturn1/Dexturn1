@@ -1,12 +1,12 @@
-<h1 align="center">Prabhat Kapkoti</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kapkoti</h1>
 
 <p align="center">
-  Backend Developer | Java • Spring Boot • REST APIs
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Kapkoti-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Kapkoti-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -14,48 +14,55 @@
 
 ## 👨‍💻 About Me
 
-I am a **Backend-focused developer** with a strong foundation in **Java and Spring Boot**, currently pursuing **MCA at Graphic Era Hill University**.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I enjoy building scalable backend systems, designing clean REST APIs, and improving performance through efficient data structures and system design.
+Backend-focused developer skilled in **Java and Spring Boot**.
+
+- 🔭 Currently building backend projects with **Spring Boot + MySQL**
+- 🧠 Learning **System Design & DSA**
+- ⚡ I care about **clean architecture and scalable systems**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat\&logo=hibernate\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
-### 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-📫 **Connect With Me**
+## 📊 GitHub Stats
 
-🔗 **LinkedIn:** [prabhat-kapkoti](https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/)
-📧 **Email:** [kapkotiprabhat@gmail.com](mailto:kapkotiprabhat@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1&theme=tokyonight" />
+</p>
 
-⭐ *Always learning. Always building.*
+---
 
+## 📌 Featured Projects
+
+🔹 Add your BEST backend projects here (seriously, don’t skip this)
+
+---
+
+## 📫 Connect With Me
+
+📧 kapkotiprabhat@gmail.com  
+🔗 https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dexturn1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
