@@ -1,176 +1,128 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c5364&height=260&section=header&text=Prabhat%20Kapkoti&fontSize=60&fontColor=39FF14&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Prabhat%20Kapkoti&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=Backend+Developer;Spring+Boot+Builder;System+Design+Learner;Still+Debugging+Life..." />
-</p>
+<h3 align="center">
+  Java Backend Developer | Spring Boot | System Design
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="70"/>
-</p>
-
----
-
-## ABOUT ME
-
-<p align="center">
-  <img src="https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif" width="220"/>
-</p>
-
-Backend-focused developer passionate about building **scalable, production-ready systems**.
-
-* Strong focus on **Spring Boot backend development**
-* Building **full-stack apps (React + Node)**
-* Working with **MySQL, MongoDB, Redis**
-* Exploring **AWS, Docker, Kubernetes**
-* Learning **System Design & Advanced DSA**
-
----
-
-## CURRENT FOCUS
-
-```txt
-> improving backend architecture
-> learning scalability patterns
-> mastering system design fundamentals
-```
-
-* Designing **high-performance APIs**
-* Optimizing **database queries & caching**
-* Understanding **real-world system scaling**
-
----
-
-## 🎮 SIDE QUESTS
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200"/>
-</p>
-
-* Berserk 
-* Attack on Titan 
-* Nichijou 
-* Games: Valorant, Apex, Elden Ring
-
----
-
-## DEV 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/10tIjpzIu8fe0/giphy.gif" width="200"/>
-</p>
-
-```txt
-> expected: works perfectly
-> actual: debugging for 4 hours
-```
-
----
-
-## ENGINEERING CORE
-
-```txt
-1. make it work
-2. make it fast
-3. make it scalable
-4. don’t break production
-```
-
-* REST APIs using **Spring Boot**
-* Database optimization (**indexes + Redis caching**)
-* Clean, modular, maintainable code
-* Debugging real-world issues
-
----
-
-## 🚀 PROJECTS
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
-</p>
-
-### Backend API System
-
-* Built scalable REST APIs using Spring Boot
-* Implemented authentication & structured architecture
-
-### Full Stack Application
-
-* React frontend + Spring backend
-* CRUD operations with real-world use cases
-
-### System Design Practice
-
-* Designed scalable service architectures
-* Learned caching & query optimization
-
----
-
-## TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,spring,nodejs,express,mysql,mongodb,redis,aws,docker,kubernetes" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+RESTful+APIs;Exploring+System+Design;Learning+Distributed+Systems;Writing+Code%2C+Breaking+Things%2C+Learning"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## RUNTIME REALITY
+## About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="150"/>
-</p>
+I'm a backend-focused developer interested in building
+**reliable, scalable, and maintainable applications**.
 
-```txt
-> bug fixed ✔
-> new bug created ✔
-> cycle continues...
-```
+- ☕ Focused on **Java and Spring Boot**
+- 🔌 Building RESTful APIs and backend services
+- 🗄️ Working with SQL databases, MongoDB, and Redis
+- 🔐 Exploring authentication, security, and caching
+- ☁️ Learning Docker, Kubernetes, and AWS
+- 🧠 Practicing DSA and system design
 
----
-
-##  SYSTEM STATUS
-
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120"/> 
-</p>
-
-
-```txt
-> cats still present
-> system stability: questionable
-```
+My goal is to build backend systems that go beyond simply working
+and are designed to be secure, efficient, and maintainable.
 
 ---
 
-## 📊 GITHUB STATS
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1&theme=tokyonight" height="180"/>
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+**Databases & Caching**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,idea" />
+</p>
+
+**Additional Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css" />
 </p>
 
 ---
 
-## 💌 CONNECT
+## Projects
 
-<p align="center">
-  <a href="mailto:kapkotiprabhat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prabhat-kapkoti-b2a453391/">
-    <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+### Job Portal Backend
+**Java · Spring Boot · Spring Data JPA · SQL**
+
+- Building REST APIs for job and company management.
+- Implementing entity relationships and database queries.
+- Exploring caching, exception handling, and application architecture.
+- Working toward maintainable, production-oriented backend design.
+
+### Todo REST API
+**Java · Spring Boot · Spring Data JPA · MySQL · Docker**
+
+- Implementing CRUD operations through REST endpoints.
+- Using DTOs to separate API requests and responses from entities.
+- Implementing centralized exception handling.
+- Configuring database connectivity with Docker.
+
+### More Projects
+
+Explore my repositories for additional projects and experiments.
+
+<p>
+  <a href="https://github.com/Dexturn1?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:000000&height=120&section=footer"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dexturn1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dexturn1&theme=github-dark-blue&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
+
+---
+
+## Beyond the Terminal
+
+When I'm not coding, you'll probably find me:
+
+- 📚 Reading fiction and philosophy
+- 🎮 Playing Elden Ring, Valorant, or Apex Legends
+- 📺 Watching Berserk, Attack on Titan, or Nichijou
+
+```text
+while (alive) {
+    learn();
+    build();
+    debug();
+    repeat();
+}
